@@ -2,7 +2,7 @@
 	"type": "LaserTurret",
 	"localizedName": "Vesuvius",
 	"description": "[red]A large super weapon that was used by the Solrans. Uses extreme amounts of heat and energy to create beams of superheated plasma that can vaporize almost anything in its way. Uses large amounts of power and a special coolant",
-	"details": "Burn them down to there last atoms.",
+	"details": "Burn them down to their last atoms.",
 	"size": 12,
 	"health": 8789000,
 	"reloadTime": 480,
