@@ -1,7 +1,7 @@
 {
 	"type": "PowerTurret",
-	"description": "[acid]A powerful energy turret used by the quantra to protect there bases. Fires a orb of supercharged plasma that deals massive amounts of damage and creates piercing fragments on impact.",
-	"details": "Destroy them at the atomic level.",
+	"description": "[acid]A powerful energy turret used by the quantra to protect their bases. Fires a orb of supercharged plasma that deals massive amounts of damage and creates piercing fragments upon impact.",
+	"details": "Destroy them down to the atomic level.",
 	"localizedName": "Atomizer",
 	
 	"size": 8,
