@@ -1,7 +1,7 @@
 {
 	"localizedName": "Dread",
 	"type": "itemTurret",
-	"details": "induce dread in your enemies",
+	"details": "Induce dread in your enemies",
 	"description": "[grey]A large alpha class turret capable of shooting large and powerful bullets",
 	"health": 1900,
 	"rotateSpeed": 1,
