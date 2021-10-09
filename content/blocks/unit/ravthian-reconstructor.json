@@ -1,7 +1,8 @@
 {
 	"type": "Reconstructor",
 	"localizedName": "Ravthian Recontructor",
-	"description": "What did it cost?...", 
+	"description": "Upgrades otherworldly units to the penultimate tier.", 
+	"details": "What did it cost?..."
 	"size": 11,
 	"constructTime": 3000,
 	"consumes": {
