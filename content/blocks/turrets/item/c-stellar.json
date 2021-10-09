@@ -1,7 +1,7 @@
 {
     "type": "ItemTurret",
     "researchCostMultiplier": 0.7,
-    "description": "[cyabnFires star bullets that explode on impact.",
+    "description": "[cyan]Fires 4-pointed star bullets that explode on impact.",
     "localizedName": "Steller",
     "size": 3,
     "health": 480,
