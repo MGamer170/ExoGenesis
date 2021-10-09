@@ -1,8 +1,8 @@
 {
     "type": "ItemTurret",
     "localizedName": "Alpha",
-    "description": "[yellow]A large and powerful super weapon turret used by the elecian to defend there home from orbital, ground and flying threats. uses powerful magnet acceleration to hurl project at speeds that can break the sound barrier",
-    "details": "Listen to the alpha",
+    "description": "[yellow]A large and powerful super weapon turret used by the elecians to defend there home from orbital, ground and flying threats. uses powerful magnet acceleration to launch projectiles at speeds that will break the sound barrier",
+    "details": "Listen to the Alpha",
     "health": 8789000,
     "size": 12,
     "reloadTime": 250,
