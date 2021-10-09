@@ -1,7 +1,7 @@
 {
 	"type": "Reconstructor",
 	"localizedName": "Mass Recontructor",
-	"description": "Upgrades units to there 4th tier",
+	"description": "Upgrades units to the 4th tier",
 	"size": 7,
 	"constructTime": 1500,
 	"consumes": {
