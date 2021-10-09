@@ -1,7 +1,7 @@
 {
     "type": "PowerTurret",
     "localizedName": "Celestial",
-    "description": "[blue] A large super weapon class turret used by the Genesuxians to defend there home. Fires a spread of cold plasma comets that home in and deal massive damaged",
+    "description": "[blue] A large super weapon class turret used by the Genesuxians to defend their home. Fires a spread of cold plasma comets that home in and deal massive damage",
     "details": "The power of the stars at your control.",
     "shots": 10,
     "size": 12,
