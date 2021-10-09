@@ -2,7 +2,7 @@
     "type": "Wall",
     "buildCostMultiplier": 0.1,
     "description": "A tough wall that has absorption properties.",
-    "localizedName": "Large gamma Wall",
+    "localizedName": "Large Gamma Wall",
     "health": 11600,
     "size": 2,
     "insulated": true,
