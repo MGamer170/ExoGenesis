@@ -1,6 +1,6 @@
 {
     "type": "ItemTurret",
-    "description": "[grey]Fires three bullets in a row and each ammon does something different",
+    "description": "[grey]Fires three bullets in a row and each ammo does something different",
     "localizedName": "Beyond",
     "size": 4,
     "health": 280,
