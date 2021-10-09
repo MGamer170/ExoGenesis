@@ -1,7 +1,7 @@
 {
  "type": "TractorBeamTurret",
  "localizedName": "Drainer",
- "description": "[purple]drainers units health with a beam that inflicts them with sapped.",
+ "description": "[purple]Drains units health with a beam that inflicts them with Sapped.",
  "range": 200,
  "size": 2,
  "health": 300,
