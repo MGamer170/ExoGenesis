@@ -1,6 +1,6 @@
 {
 	"type": "PowerTurret",
-	"description": "[acid]A powerful energy turret that fires balls of gamma plasma that explode on impact. Also frags.",
+	"description": "[acid]A powerful energy turret that fires orbs of plasmaic gamma that explode on impact. Also frags.",
 	"localizedName": "Nullifier",
 	
 	"size": 7,
