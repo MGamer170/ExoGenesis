@@ -1,6 +1,6 @@
 {
 	"type": "PowerTurret",
-	"description": "[grey]Fires homing soul energy bombs at nearby enemies that slow them",
+	"description": "[grey]Fires homing soul energy bombs at nearby enemies that slow them down",
 	"localizedName": "Gaze",
 	
 	"size": 3,
