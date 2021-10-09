@@ -1,7 +1,7 @@
 {
     "type": "PowerTurret",
     "researchCostMultiplier": 0.2,
-    "description": "[acid]A small turret that uses low tier quantra technology to fire small gamma pulses. Is the upgradeto the tau.",
+    "description": "[acid]A small turret that uses low quantra technology to fire small gamma pulses. Is the upgrade to the tau.",
     "localizedName": "Gluon",
     "size": 2,
     "health": 240,
