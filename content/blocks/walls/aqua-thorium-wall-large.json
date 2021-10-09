@@ -1,7 +1,7 @@
 {    
     "type": "Wall",
     "description": "Protects structures from enemy projectiles. Used for deep water defense",
-    "localizedName": "Large Aqua Thorium Wall",
+    "localizedName": "Large Aquatic Thorium Wall",
     "health": 3200,
 "placeableLiquid": "true",
     "size": 2,
