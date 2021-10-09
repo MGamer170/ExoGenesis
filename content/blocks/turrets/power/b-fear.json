@@ -2,7 +2,7 @@
 	"type": "PowerTurret",
 	"localizedName": "Fear",
 	"details": "Your enemies will fear you",
-	"description": "[grey]A alpha class turret that fires orbs of soul energy that on impact realses beams and drains the enemies soul",
+	"description": "[grey]A alpha class turret that fires orbs of soul energy that on impact releases beams that drains the enemies souls",
 	"size": 8,
 	"health": 8660,
 	"range": 500,
