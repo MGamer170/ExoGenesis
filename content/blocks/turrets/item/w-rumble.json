@@ -1,7 +1,7 @@
 {
     "type": "ItemTurret",
     "localizedName": "Rumble",
-    "details": "An upgraded ripple that can fire large clust bombs at long ranges",
+    "details": "An upgraded Ripple that can fire large cluster bombs at long ranges",
     "health": 520,
     "targetAir": false,
     "size": 4,
