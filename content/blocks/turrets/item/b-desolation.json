@@ -1,7 +1,7 @@
 {
     "type": "ItemTurret",
     "localizedName": "Desolation",
-    "details": "When the world is cold and dark and the last star had vanished you will be all thats left",
+    "details": "When the world is cold and dark and the last star had vanished, you will be all thats left",
     "description": "[grey]A large super weapon used by the vyrthians to kill a otherworldly god. Uses the unnatural powers of epsilonium to annihilate enemies from large distances away. Consumes large amounts of power and coolant",
     "size": 12,
     "health": 8789000,
