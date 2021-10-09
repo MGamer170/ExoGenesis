@@ -1,7 +1,7 @@
 {
 	"type": "Reconstructor",
 	"localizedName": "Auvathia Recontructor",
-	"description": "Upgrades units to the titan tier.",
+	"description": "Upgrades otherworldly units to the Titan tier, at this point, they're demigods.",
 	"size": 14,
 	"constructTime": 6000,
 	"consumes": {
