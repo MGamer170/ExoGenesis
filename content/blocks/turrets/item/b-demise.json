@@ -1,7 +1,7 @@
 {
     "type": "ItemTurret",
     "localizedName": "Demise",
-    "description": "[grey]Fires point bullets that deal massive damage and peirces enemies souls",
+    "description": "[grey]Fires point bullets that deal massive damage and pierces enemies souls",
     "size": 6,
     "health": 6560,
     "range": 600,
