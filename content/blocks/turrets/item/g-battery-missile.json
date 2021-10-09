@@ -2,7 +2,7 @@
 	"type": "ItemTurret",
 	"localizedName": "Battery missile",
 	"description": "[acid]Rapidly fires a swarm of missiles. Uses ammo incredibly fast",
-	"details": "Your gonna need alot of ammo for this",
+	"details": "Your gonna need alot of ammo for this, and a fast ammo fueling system.",
 	"health": 1200,
 	"size": 3,
 	"reloadTime": 17,
