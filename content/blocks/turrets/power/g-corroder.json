@@ -1,7 +1,7 @@
 {
 	"type": "PowerTurret",
 	"localizedName": "Corroder",
-	"description": "[acid]Shoots gamma energy bullets at enemies that. Also peirces.",
+	"description": "[acid]Shoots gamma energy bullets at enemies. Also pierces.",
 	"size": 4,
 	"health": 880,
 	"reloadTime": 10,
