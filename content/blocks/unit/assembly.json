@@ -1,6 +1,6 @@
 {
 "type": "UnitFactory",
-"description": "Builds prototype units created by power factions.",
+"description": "Builds prototype units created by other factions.",
 "localizedName": "Assembly",
 "size": 7,
 "consumes": {
